@@ -17,19 +17,5 @@ Bcells
 # الأعمال المستقبلية
 يكون للمتبرعين ميزه خاصة. 
 
-</div>
-
-> Fill out project information in English ⬇️
-### Student Name
-Wafaa AlAzmi
-
-### Project Name
-Bcells
-
-# Idea
-
-
-
-# Future Work 
 
 
